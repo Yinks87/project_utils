@@ -7,8 +7,8 @@ Notice: The entrys in the .env have to named exact same as the variables in the 
 ```
 
 // .env file
-SERVER_PORT=
-SERVER_HOST=
+SERVER_PORT='http://localhost:'
+SERVER_HOST='8080'
 ```
 
 ```
