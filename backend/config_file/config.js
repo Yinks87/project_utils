@@ -2,8 +2,8 @@ require('dotenv').config();
 
 /**
  * @typedef EnvironmentConfiguration
- * @prop {string} SERVER_PORT 
- * @prop {string} SERVER_HOST 
+ * @prop {string} SERVER_HOST
+ * @prop {string} SERVER_PORT
  * @prop {string} 
  * @prop {string} 
  * @prop {string} 
