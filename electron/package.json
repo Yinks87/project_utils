@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "electron": "electron .", /////////// add this line
-    "electron-dev": "npm run build && npm run electron ." /////////// add this line
+    "electron-dev": "npm run build && npm run electron" /////////// add this line
   },
   "eslintConfig": {
     "extends": [
